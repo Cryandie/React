@@ -139,7 +139,7 @@ function App() {
       <div className="survey">
         <footer>
           <h3>Which one do you prefer?!</h3>
-          <p>Login to participate in our survey now !</p>
+          <p>Login to participate in our survey !</p>
           <span>
             {" "}
             <img src={logo} className="App-logo-2" alt="logo" />{" "}
